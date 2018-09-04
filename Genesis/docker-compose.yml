@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapicore:
+    image: ${DOCKER_REGISTRY}webapicore
+    build:
+      context: .
+      dockerfile: WebApiCore\Dockerfile

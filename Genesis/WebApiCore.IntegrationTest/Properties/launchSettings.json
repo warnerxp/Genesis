@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebApiCore.IntegrationTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SecretKey": "jifasiohfuiashjlhjhj2h1k2jnskbnadmamnvcv5asaqnvqpodhña"
+      }
+    }
+  }
+}
